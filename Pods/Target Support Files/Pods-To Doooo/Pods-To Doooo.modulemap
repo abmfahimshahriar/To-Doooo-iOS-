@@ -1,0 +1,6 @@
+framework module Pods_To_Doooo {
+  umbrella header "Pods-To Doooo-umbrella.h"
+
+  export *
+  module * { export * }
+}
