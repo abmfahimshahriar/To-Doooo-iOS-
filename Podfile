@@ -6,4 +6,5 @@ target 'To Doooo' do
 
   # Pods for To Doooo
 pod 'RealmSwift'
+pod 'SwipeCellKit'
 end
