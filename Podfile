@@ -7,4 +7,5 @@ target 'To Doooo' do
   # Pods for To Doooo
 pod 'RealmSwift'
 pod 'SwipeCellKit'
+pod 'ChameleonFramework/Swift', :git => 'https://github.com/wowansm/Chameleon.git', :branch => 'swift5'
 end
